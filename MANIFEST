@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/PDF-Elite.t
+lib/PDF/Elite.pm
